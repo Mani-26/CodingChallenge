@@ -31,11 +31,8 @@ public class MaxString {
                 String str=list1.get(i);
                 int len=str.length();
                 if (max==len) {
-                    list2.add(list1.get(i));
+                    System.out.print(str+" ");
                 }
-            }
-            for (int i = 0; i < list2.size(); i++) {
-                System.out.print(list2.get(i)+" ");
             }
         }
     }
