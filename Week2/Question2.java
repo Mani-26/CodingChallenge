@@ -6,6 +6,7 @@ public class Question2 {
         String c=sc.nextLine();
         int a=sc.nextInt();
         int b=sc.nextInt();
+        sc.close();
         int out=maths(c,a,b);
         System.out.println(out);
     }
