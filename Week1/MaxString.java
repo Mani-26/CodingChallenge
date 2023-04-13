@@ -5,7 +5,6 @@ public class MaxString {
         String inp=sc.nextLine();
         int max=0;
         List<String> list1 = new ArrayList<>();
-        List<String> list2 = new ArrayList<>();
         if(inp.equals("-1"))
             System.out.println("No string given");
         else{
