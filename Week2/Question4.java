@@ -6,6 +6,7 @@ public class Question4 {
         float Mark = sc.nextFloat();
         float MaxMark = sc.nextFloat();
         float Weighting = sc.nextFloat();
+        sc.close();
         float score = ((MaxMark/Mark)*Weighting);
         System.out.printf("%.1f",score);
     }

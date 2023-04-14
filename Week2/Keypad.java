@@ -7,45 +7,21 @@ public class Keypad {
         sc.close();
         int b = Integer.parseInt(str);
         int n=str.length();
-        int a=0;
+        int a=0,count=0,num=-1;
         for(int i=n-1;i>=0;i--){
             int p=(int)Math.pow(10,i);
             a=b/p;
             b=b%p;
-            if (a==1) {
-                break;
-            }
-            else if (a==2) {
-                
-            } 
-            else if(a==3){
-                
-            }
-            else if(a==4){
-
-            }
-            else if(a==5){
-
-            }
-            else if(a==6){
-
-            }
-            else if(a==7){
-
-            }
-            else if(a==8){
-
-            }
-            else if(a==9){
-
-            }
-            else if(a==0){
-
+            switch(a){
+                case 1:
+                    break;
+                case 2:{
+                    String s="abc";
+                    count++;
+                    System.out.println(s.charAt(count));
+                    break;
+                }
             }
     }
-    }
-
-    private static String str(int i) {
-        return null;
     }
 }
