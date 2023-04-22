@@ -7,7 +7,7 @@ public class eg1 {
             return "";
         }
 
-        String[] mapping = {"0", ".,?\"", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        String[] mapping = {" ", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
         StringBuilder resultBuilder = new StringBuilder();
         int index = 0;
@@ -40,6 +40,7 @@ public class eg1 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the string of digits: ");
         String digits = scanner.nextLine();
+        scanner.close();
         System.out.println("The corresponding text is: " + translate(digits.toLowerCase()));
     }
 }

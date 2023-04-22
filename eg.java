@@ -8,7 +8,6 @@ public class eg {
         int arr[]=new int[b.length];
         for (int i = 0; i < b.length; i++) {
             arr[i]=Integer.parseInt(b[i]);
-            System.out.println(arr[i]);
         }
         int sum = 0;
         boolean isSumPresent = false;
