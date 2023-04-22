@@ -3,9 +3,8 @@ import java.util.Scanner;
 public class eg1 {
 
     public static String translate(String digits) {
-        if (digits == null || digits.isEmpty()) {
+        if (digits == null || digits.isEmpty()) 
             return "";
-        }
 
         String[] mapping = {" ", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
