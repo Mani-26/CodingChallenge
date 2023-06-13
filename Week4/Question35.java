@@ -4,6 +4,7 @@ public class Question35 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size of the chessboard: ");
         int n = sc.nextInt();
+        sc.close();
         if (n < 0) {
             System.out.println("Maximum number of queens: 0");
         } else {
@@ -16,11 +17,3 @@ public class Question35 {
     }
 }
 
-
-/*
- * 4 6
- * 5 12
- * 33 992
- * 20 342
- * 6 20
- */

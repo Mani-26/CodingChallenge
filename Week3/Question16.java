@@ -3,6 +3,7 @@ public class Question16{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
+        sc.close();
         int sqrt = (int)Math.sqrt(n);
         int m;
         if (n == sqrt * sqrt)

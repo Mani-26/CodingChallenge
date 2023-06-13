@@ -8,6 +8,7 @@ public class Question19 {
         for (int i = 0; i < n; i++) {
             sheep[i] = sc.nextBoolean();
         }
+        sc.close();
         for (int i = 0; i < n; i++) {
             boolean a=sheep[i];
             if (a)

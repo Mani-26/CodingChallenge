@@ -8,6 +8,7 @@ public class Question13 {
             a[i] = scanner.nextInt();
         }
         char d = scanner.next().charAt(0);
+        scanner.close();
         if (d == 'R')
             Arrays.sort(a);
         else if (d == 'L') {

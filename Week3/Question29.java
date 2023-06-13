@@ -5,6 +5,7 @@ public class Question29{
         int h=sc.nextInt();
         int m=sc.nextInt();
         int s=sc.nextInt();
+        sc.close();
        System.out.println((h*3600000)+(m*60000)+(s*1000));
     }
 }

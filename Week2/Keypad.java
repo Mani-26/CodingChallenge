@@ -7,7 +7,7 @@ public class Keypad {
         sc.close();
         int b = Integer.parseInt(str);
         int n=str.length();
-        int a=0,count=0,num=-1;
+        int a=0,count=0;
         for(int i=n-1;i>=0;i--){
             int p=(int)Math.pow(10,i);
             a=b/p;

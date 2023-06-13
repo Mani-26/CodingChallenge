@@ -4,6 +4,7 @@ public class Question3 {
         Scanner sc = new Scanner(System.in);
         int k=0,l=0,m=0,n=0,c=0;
         String direction[] = sc.nextLine().split(",");
+        sc.close();
         int maze[][] = {{1,1,1,1,1,1,1},
                         {1,0,0,0,0,0,3},
                         {1,0,1,0,1,0,1},
@@ -24,7 +25,7 @@ public class Question3 {
             }
         }
         int current[] = {k, l};
-        int end[]={m,n};
+        // int end[]={m,n};
         for (int i = 0; i < direction.length; i++) {
             switch (direction[i]) {
                 case "N":

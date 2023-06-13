@@ -1,0 +1,511 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BankTransactionL2",
+            "request": "launch",
+            "mainClass": "BankTransactionL2",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "CalcSquare",
+            "request": "launch",
+            "mainClass": "CalcSquare",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "ComplexEquation",
+            "request": "launch",
+            "mainClass": "ComplexEquation",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "ConcatenationL1",
+            "request": "launch",
+            "mainClass": "ConcatenationL1",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "FactorialL1",
+            "request": "launch",
+            "mainClass": "FactorialL1",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Factors",
+            "request": "launch",
+            "mainClass": "Factors",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "MaxString",
+            "request": "launch",
+            "mainClass": "MaxString",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "NDivision",
+            "request": "launch",
+            "mainClass": "NDivision",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquare",
+            "request": "launch",
+            "mainClass": "PerfectSquare",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "PrintNumSquareArray",
+            "request": "launch",
+            "mainClass": "PrintNumSquareArray",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question13",
+            "request": "launch",
+            "mainClass": "Question13",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question16",
+            "request": "launch",
+            "mainClass": "Question16",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question17",
+            "request": "launch",
+            "mainClass": "Question17",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question19",
+            "request": "launch",
+            "mainClass": "Question19",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question28",
+            "request": "launch",
+            "mainClass": "Question28",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question29",
+            "request": "launch",
+            "mainClass": "Question29",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "Question3",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question30",
+            "request": "launch",
+            "mainClass": "Question30",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question31",
+            "request": "launch",
+            "mainClass": "Question31",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question32",
+            "request": "launch",
+            "mainClass": "Question32",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question33",
+            "request": "launch",
+            "mainClass": "Question33",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question34",
+            "request": "launch",
+            "mainClass": "Question34",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question35",
+            "request": "launch",
+            "mainClass": "Question35",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question36",
+            "request": "launch",
+            "mainClass": "Question36",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question61",
+            "request": "launch",
+            "mainClass": "Question61",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question62",
+            "request": "launch",
+            "mainClass": "Question62",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question63",
+            "request": "launch",
+            "mainClass": "Question63",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question64",
+            "request": "launch",
+            "mainClass": "Question64",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question65",
+            "request": "launch",
+            "mainClass": "Question65",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question66",
+            "request": "launch",
+            "mainClass": "Question66",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question67",
+            "request": "launch",
+            "mainClass": "Question67",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question68",
+            "request": "launch",
+            "mainClass": "Question68",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question69",
+            "request": "launch",
+            "mainClass": "Question69",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question70",
+            "request": "launch",
+            "mainClass": "Question70",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question71",
+            "request": "launch",
+            "mainClass": "Question71",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question72",
+            "request": "launch",
+            "mainClass": "Question72",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question74",
+            "request": "launch",
+            "mainClass": "Question74",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question76",
+            "request": "launch",
+            "mainClass": "Question76",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question77",
+            "request": "launch",
+            "mainClass": "Question77",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question79",
+            "request": "launch",
+            "mainClass": "Question79",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question80",
+            "request": "launch",
+            "mainClass": "Question80",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question82",
+            "request": "launch",
+            "mainClass": "Question82",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question88",
+            "request": "launch",
+            "mainClass": "Question88",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question89",
+            "request": "launch",
+            "mainClass": "Question89",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "SumTwoNumsRecursion",
+            "request": "launch",
+            "mainClass": "SumTwoNumsRecursion",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Week2.Anagram",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "CircleIntersection",
+            "request": "launch",
+            "mainClass": "Week2.CircleIntersection",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "CountLetterAndDigit",
+            "request": "launch",
+            "mainClass": "Week2.CountLetterAndDigit",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "Week2.DiamondPattern",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Keypad",
+            "request": "launch",
+            "mainClass": "Week2.Keypad",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Lower2UpperCase",
+            "request": "launch",
+            "mainClass": "Week2.Lower2UpperCase",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "OddNumArray",
+            "request": "launch",
+            "mainClass": "Week2.OddNumArray",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Week2.Question1",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question10",
+            "request": "launch",
+            "mainClass": "Week2.Question10",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question11",
+            "request": "launch",
+            "mainClass": "Week2.Question11",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question12",
+            "request": "launch",
+            "mainClass": "Week2.Question12",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question14",
+            "request": "launch",
+            "mainClass": "Week2.Question14",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question15",
+            "request": "launch",
+            "mainClass": "Week2.Question15",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "Week2.Question2",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "Week2.Question4",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "Week2.Question5",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question6",
+            "request": "launch",
+            "mainClass": "Week2.Question6",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question7",
+            "request": "launch",
+            "mainClass": "Week2.Question7",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question7Alt",
+            "request": "launch",
+            "mainClass": "Week2.Question7Alt",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question8",
+            "request": "launch",
+            "mainClass": "Week2.Question8",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "Question9",
+            "request": "launch",
+            "mainClass": "Week2.Question9",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "SumOfFactor",
+            "request": "launch",
+            "mainClass": "Week2.SumOfFactor",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "TreasureHunt",
+            "request": "launch",
+            "mainClass": "Week2.TreasureHunt",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "UpprCasLowrCas",
+            "request": "launch",
+            "mainClass": "Week2.UpprCasLowrCas",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "eg",
+            "request": "launch",
+            "mainClass": "eg",
+            "projectName": "CodingChallenge_70047205"
+        },
+        {
+            "type": "java",
+            "name": "eg1",
+            "request": "launch",
+            "mainClass": "eg1",
+            "projectName": "CodingChallenge_70047205"
+        }
+    ]
+}
